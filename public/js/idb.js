@@ -26,6 +26,7 @@ function savingTransaction (record) {
     store.add(record)
 }
 
+
 function uploadingTransaction() {
     const transaction = db.transaction(["New-Transaction"], "readwrite");
     const store = transaction.objectStore("New-Transaction");
