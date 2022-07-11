@@ -16,10 +16,10 @@
   A simple budget tracking application that is able to be used while offline. You can add deposits and keep track of spending habits. Provides a useful graph to better visualize everyday costs.
 
   ## Installation/Usage
-  1
+  Ensure you are in the correct directory in your terminal. Run a 'npm install' to install all assets. Then run 'npm start'. Once app has been successfully connected, open up your browser and go to 'http://localhost:3001/'. You can name transactions and their amount, then add it to the database to see a visual tied to your spending.
 
   ## Deployed-Application
-  Link to Demo:
+  Link to Live application: https://alu-budget-tracker.herokuapp.com/
 
   ## License
   Copyright (C) function getFullYear() { [native code] }
