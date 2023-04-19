@@ -1,5 +1,6 @@
 {
   "name": "budget-app",
+  "homepage": "https://alu1868.github.io/Budget-Tracker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -12,14 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "git+https://github.com/alu1868/Budget-Tracker"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://github.com/alu1868/Budget-Tracker"
   },
-  "homepage": "https://alu1868.github.io/Budget-Tracker",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
